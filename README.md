@@ -1,2 +1,6 @@
 # Asteroids-game
-The game Asteroids implemented in p5.js
+The classic game Asteroids implemented in JavaScript language.
+
+The arrow keys control the rocket and the space bar shoots.
+
+Try to get as many points as possible!
